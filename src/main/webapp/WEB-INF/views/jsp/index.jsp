@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Provoke IT Solutions</p>
+		<p>&copy; Provoke IT Solutions, DevOps Academy</p>
 	</footer>
 </div>
 
