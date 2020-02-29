@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Provoke IT Solutions, DevOps Academy</p>
+		<p>&copy; Provoke IT Solutions, DevOps Academy, Hyderabad</p>
 	</footer>
 </div>
 
