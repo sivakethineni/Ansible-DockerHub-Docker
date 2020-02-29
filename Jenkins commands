@@ -1,0 +1,10 @@
+nstall this module on ansible server 
+
+apt-get install python-docker
+
+Source files : webapp/target/*.war
+Remove Prefix: webapp/target
+Remote Directory: //opt/docker
+Exec Command:
+ansible-playbook -i /opt/docker/hosts /opt/docker/create-simple-docker-image.yml --limit localhost
+ansible-playbook -i /opt/docker/hosts /opt/docker/simple-devops-project.yml --limit <docker-host-IP>
